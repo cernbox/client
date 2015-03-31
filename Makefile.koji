@@ -1,0 +1,8 @@
+PKGNAME=cernbox-1.7.1
+TARFILE=$(PKGNAME).tar.bz2
+
+all:
+	tar cvjf $(TARFILE) --exclude-vcs --transform 's,^,$(PKGNAME)/,' *
+
+clean:
+	rm $(TARFILE)

@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/mirall">
+
+        <file>theme/colored/cernbox-icon-32.png</file>
+        <file>theme/colored/cernbox-icon-48.png</file>
+        <file>theme/colored/cernbox-icon-64.png</file>
+        <file>theme/colored/cernbox-icon-128.png</file>
+
+	<file>theme/colored/state-error-16.png</file>
+        <file>theme/colored/state-error-32.png</file>
+        <file>theme/colored/state-error-64.png</file>
+
+	 <file>theme/colored/state-info-16.png</file>
+        <file>theme/colored/state-info-32.png</file>
+        <file>theme/colored/state-info-64.png</file>
+
+        <file>theme/colored/state-offline-16.png</file>
+        <file>theme/colored/state-offline-32.png</file>
+        <file>theme/colored/state-offline-64.png</file>
+
+        <file>theme/colored/state-ok-16.png</file>
+        <file>theme/colored/state-ok-32.png</file>
+        <file>theme/colored/state-ok-64.png</file>
+
+        <file>theme/colored/state-pause-16.png</file>
+        <file>theme/colored/state-pause-32.png</file>
+        <file>theme/colored/state-pause-64.png</file>
+
+        <file>theme/colored/state-sync-16.png</file>
+        <file>theme/colored/state-sync-32.png</file>
+        <file>theme/colored/state-sync-64.png</file>
+
+  </qresource>
+</RCC>
