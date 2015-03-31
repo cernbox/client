@@ -1,4 +1,4 @@
-PKGNAME=cernbox-1.7.1
+PKGNAME=cernboxtest-1.7.1
 TARFILE=$(PKGNAME).tar.bz2
 
 all:
