@@ -45,7 +45,7 @@ Packager: Jarek Polok <Jaroslaw.Polok@cern.ch>
 
 Name:		cernboxtest-client
 Version:	1.7.1
-Release:	7.1.cern.1%{?dist}
+Release:	7.1.cern.3%{?dist}
 Summary:	The ownCloud Client - Private file sync and share client based on Mirall
 
 Group:		Productivity/Networking/Other
